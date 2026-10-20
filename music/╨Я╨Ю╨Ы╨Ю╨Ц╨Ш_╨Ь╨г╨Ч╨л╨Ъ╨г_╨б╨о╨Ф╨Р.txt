@@ -1,0 +1,1 @@
+Положи сюда mp3/ogg и впиши их в const MUSIC в index.html (блок «МУЗЫКА»).
